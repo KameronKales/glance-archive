@@ -1,0 +1,21 @@
+{
+  "name": "glance-archive",
+  "version": "0.0.1",
+  "author": "glance",
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.0",
+    "bugsnag": "^2.0.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.4",
+    "jwt-simple": "^0.5.1",
+    "mongodb": "^2.2.31",
+    "mongoose": "^4.10.8",
+    "nodemon": "^1.11.0",
+    "path": "^0.12.7",
+    "request": "^2.81.0"
+  }
+}
